@@ -1,0 +1,9 @@
+{
+  "name": "kokotobot-extend-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "WTFPL",
+  "dependencies": {
+    "node-emoji": "^1.10.0"
+  }
+}
