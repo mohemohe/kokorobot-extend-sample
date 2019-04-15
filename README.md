@@ -15,5 +15,5 @@ kokorobotは `scripts/*/hubot/**/` を読み込むようにしています
 同梱している `docker-compose.yml` を使用する場合は、 `.env` を用意する必要があります
 
 ```sh
-curl https://github.com/mohemohe/kokorobot/blob/master/.env.sample > .env
+curl https://raw.githubusercontent.com/mohemohe/kokorobot/master/.env.sample > .env
 ```
